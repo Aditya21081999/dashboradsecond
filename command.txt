@@ -30,6 +30,7 @@ git commit --amend  =  change tha commit msg
 git restore --staged  =  unstaged a particular file
 git checkout -- command.txt  =  restore a deleted data and unmodified data
 git checkout -f  =  go to previous commit for reload your prrivous delete data
-chanjfxvcvbnmnttvczxcbnlk
+git branch -master or main  =  change branches master to main or main to master
+
 
 
