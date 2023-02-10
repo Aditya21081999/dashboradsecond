@@ -1,0 +1,35 @@
+git init  =  Initialized empty Git repository
+git status  =  check Initialized empty Git repository or check Initialized Git repository
+git add  =  add one by one file in staging
+git add -a  =  add all files in staging 
+git commit -m " "  =  add commit
+git log  =  check all commit and updation
+git log -p  =  check all commit and updation with add and remove lines
+git log -p -3(example)  =  check 3 commit and updation with add and remove lines
+rm -rf .git  =  delete git repositry
+ls  =  content list
+pwd  =  present working directory
+cd  =  chage directory
+touch  =  create a new file and folder in git repository
+git diff  =  compare difference bettween working directory and staging area
+git diff --staged  =  compare difference bettween previous commit area and present staging area
+git commit -a -m " "  =  direct commit without going to staging area
+.gitignore  =  create gitignore file
+git rm --cached  =  untracked particular file and folder in git repository
+git log --stat  = (short summery) check all commit and updation with all add, remove, deletions lines
+git log --pretty=oneline  =  all commits in one line
+git log --pretty=short  =  all commits in (short line) without date and difference for shortlist a particular commit
+git log --pretty=full  =  all commits with commiter name
+git log --since=2.days  =  previous 2 days commits display
+git log --since=4.weeks  =  previous 4 weeks commits display
+git log --since=6.months  =  previous 6 months commits display
+git log --since=1.years  =  previous years commits display
+git log --pretty=format:"%h -- %an"  =  all commits in format with (an) author name 
+git log --pretty=format:"%h -- %ae"  =  all commits in format with (ae) author email
+git commit --amend  =  change tha commit msg
+git restore --staged  =  unstaged a particular file
+git checkout -- command.txt  =  restore a deleted data and unmodified data
+
+chanjfxvcvbnmnttvczxcbnlk
+
+
